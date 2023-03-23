@@ -1,0 +1,7 @@
+include ':app'
+include ':screens:requestshower'
+include ':screens:apichanger'
+include ':api:dogs'
+include ':components'
+include ':api:nationalize'
+include ':screens:imagescreen'

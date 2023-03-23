@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="select_api_text">Выбере api</string>
+	<string name="return_to_request_screen">Сохранить выбор</string>
+	<string-array name="api_name_array">
+		<item>Dogs Api</item>
+		<item>Nationalize Api</item>
+		<item>Custom</item>
+	</string-array>
+</resources>

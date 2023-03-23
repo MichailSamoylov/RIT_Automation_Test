@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="custom_api_text">API:Custom</string>
+	<string name="dogs_api_text">API:Dogs</string>
+	<string name="nationalize_api_text">API:Nationalize</string>
+
+	<string name="button_choose_api_text">Выбрать api</string>
+	<string name="button_send_request_text">Отправить запрос</string>
+	<string name="button_exit">Выйти</string>
+</resources>
